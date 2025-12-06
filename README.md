@@ -6,7 +6,7 @@ During my previous work as a lab technician in Kyle Cavanaugh's coastal Geograph
 
 I have continued to expand on this work for my masters thesis, where I am developing a framework to study beach erosion dynamics using high resolution satellite imagery. For my final project today, I am presenting a crucial step in analysing the beach width data I have created by connecting the observed beach width dynamics with climatic variables to understand how storm events influence the width of beaches. For this project, I have used KMeans clustering to parse raw weather data connected from around my first site at Samoa State Beach in Humboldt County, California. I use unsupervised clustering to separate out storm days among the hourly climatic data collected, and have developed a robust framework which will allow me to pull storm dates reliably from across California. 
 
-My report outlining the methodology of how I gathered raw weather data from local stations, cleaned the various data sources, and deployed my KMeans clustering algorithm to find storm dates in my time series is linked [here](/assets/FinalReport_MC.pdf) with its associated [code] (/assets/StormClustering.py)
+My report outlining the methodology of how I gathered raw weather data from local stations, cleaned the various data sources, and deployed my KMeans clustering algorithm to find storm dates in my time series is linked [here](/assets/FinalReport_MC.pdf) with its associated [code](/assets/StormClustering.py)
 
 
 
