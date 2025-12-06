@@ -1,6 +1,11 @@
 **Welcome to my final project**
 
 Sandy beaches are an essential and beautiful part of our coastline, but they are a woefully misunderstood ecological niche. The common conception is that beaches are lifeless expanses of sand fit for beach days and relaxation only. But there is a wide variety of cross boundary interactions happening over the beach, connecting the ocean and the land together in a dense web of nutrient exchange and interaction. 
+<figure>
+  <img src="assets/my_image.png" alt="Storm cluster results" width="600">
+  <figcaption>Figure 1. Automatically detected storm clusters using KMeans.</figcaption>
+</figure>
+
 
 During my previous work as a lab technician in Kyle Cavanaugh's coastal Geography lab here at UCLA, I worked in the field to survey 12 distinct sand beach sites along the coast doing vegetation surveys, RTK profiles of beach height, and drone surveys which I processed into high resolution maps of vegetation cover and digital elevation models to study the morphodynamics of dune ecosystems. 
 
