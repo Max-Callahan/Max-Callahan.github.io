@@ -2,8 +2,8 @@
 
 Sandy beaches are an essential and beautiful part of our coastline, but they are a woefully misunderstood ecological niche. The common conception is that beaches are lifeless expanses of sand fit for beach days and relaxation only. But there is a wide variety of cross boundary interactions happening over the beach, connecting the ocean and the land together in a dense web of nutrient exchange and interaction. 
 <figure>
-  <img src="assets/my_image.png" alt="Storm cluster results" width="600">
-  <figcaption>Figure 1. Automatically detected storm clusters using KMeans.</figcaption>
+  <img src="assets/beachsystemgraphic.png" alt="graphic" width="600">
+  <figcaption>Hyndes, Glenn & Berdan, Emma & Duarte, Cristian & Dugan, Jenifer & Emery, Kyle & Hambäck, Peter & Henderson, Christopher & Hubbard, David & Lastra, Mariano & Mateo, Miguel & Olds, Andrew & Schlacher, Thomas. (2022). The role of inputs of marine wrack and carrion in sandy-beach ecosystems: a global review. Biological reviews of the Cambridge Philosophical Society. 97. 0-000. 10.1111/brv.12886. </figcaption>
 </figure>
 
 
