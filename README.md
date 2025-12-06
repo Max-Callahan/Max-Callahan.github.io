@@ -11,6 +11,26 @@ Sandy beaches are an essential and beautiful part of our coastline, but they are
   </figcaption>
 </figure>
 
+But these delicate ecosystems are under threat from increased storm surge, wave intensities, and global sea level rise. The shrinking margins of the viable habitat along our coast necessitates large scale monitoring efforts to better understand the complex erosional patterns of beaches, and how climatic variables influence these massive changes. 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/IMG/DJI_20241004114113_0002_D.jpg" width="300">
+    </td>
+    <td align="center">
+      <img src="assets/IMG/DJI_20250122133400_0015_D.jpg" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <figcaption style="font-size:12px; color:grey; margin-top:10px;">
+        Samoa beach October 2024 to January 2025. Increasing coastal erosion is thretening dry upper beach habitat. (drone images taken by me)
+      </figcaption>
+    </td>
+  </tr>
+</table>
+
 
 
 During my previous work as a lab technician in Kyle Cavanaugh's coastal Geography lab here at UCLA, I worked in the field to survey 12 distinct sand beach sites along the coast doing vegetation surveys, RTK profiles of beach height, and drone surveys which I processed into high resolution maps of vegetation cover and digital elevation models to study the morphodynamics of dune ecosystems. 
