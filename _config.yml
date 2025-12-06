@@ -2,4 +2,4 @@ title: Unsupervised Clustering of Weather Data for Storm Identification
 description: A template for your AOS C111/204 project site.
 logo: /assets/IMG/template_logo.png
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
