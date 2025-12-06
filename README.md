@@ -16,10 +16,10 @@ But these delicate ecosystems are under threat from increased storm surge, wave 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/IMG/DJI_20241004114113_0002_D.jpg" width="300">
+      <img src="assets/IMG/DJI_20241004114113_0002_D.JPG" width="300">
     </td>
     <td align="center">
-      <img src="assets/IMG/DJI_20250122133400_0015_D.jpg" width="300">
+      <img src="assets/IMG/DJI_20250122133400_0015_D.JPG" width="300">
     </td>
   </tr>
   <tr>
