@@ -25,7 +25,7 @@ But these delicate ecosystems are under threat from increased storm surge, wave 
   <tr>
     <td colspan="2" align="center">
       <figcaption style="font-size:12px; color:grey; margin-top:10px;">
-        Samoa beach October 2024 to January 2025. Increasing coastal erosion is thretening dry upper beach habitat. (drone images taken by me)
+        Samoa beach October 2024 to January 2025, the dunes eroded nearly 20 meters, and the overall elevation of the beach dropped by almost 2 meters!. Increasing coastal erosion is threatening dry upper beach habitat. (drone images taken by me)
       </figcaption>
     </td>
   </tr>
