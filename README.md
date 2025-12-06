@@ -25,7 +25,7 @@ But these delicate ecosystems are under threat from increased storm surge, wave 
   <tr>
     <td colspan="2" align="center">
       <figcaption style="font-size:12px; color:grey; margin-top:10px;">
-        Samoa beach October 2024 to January 2025, the dunes eroded nearly 20 meters, and the overall elevation of the beach dropped by almost 2 meters!. Increasing coastal erosion is threatening dry upper beach habitat. (drone images taken by me)
+        Samoa beach October 2024 to January 2025, the dunes eroded nearly 20 meters, and the overall elevation of the beach dropped by almost 2 meters! Increasing coastal erosion is increasingly threatening dry upper beach habitat. (drone images taken by me)
       </figcaption>
     </td>
   </tr>
@@ -37,7 +37,8 @@ During my previous work as a lab technician in Kyle Cavanaugh's coastal Geograph
 
 I have continued to expand on this work for my masters thesis, where I am developing a framework to study beach erosion dynamics using high resolution satellite imagery. For my final project today, I am presenting a crucial step in analysing the beach width data I have created by connecting the observed beach width dynamics with climatic variables to understand how storm events influence the width of beaches. For this project, I have used KMeans clustering to parse raw weather data connected from around my first site at Samoa State Beach in Humboldt County, California. I use unsupervised clustering to separate out storm days among the hourly climatic data collected, and have developed a robust framework which will allow me to pull storm dates reliably from across California. 
 
-My report outlining the methodology of how I gathered raw weather data from local stations, cleaned the various data sources, and deployed my KMeans clustering algorithm to find storm dates in my time series is linked [here](/assets/FinalReport_MC.pdf) with its associated [code](/assets/StormClustering.py)
+My report outlining the methodology of how I gathered raw weather data from local stations, cleaned the various data sources, and deployed my KMeans clustering algorithm to find storm dates in my time series is linked [here](/assets/FinalReport_MC.pdf) with its associated [code](/assets/StormClustering.py) 
+The associated data: [Weather for Samoa Beach 2017-2024](/assets/samoa_forcing_fulltimeseries.csv) and [Samoa Beach Width Time Series 2024-2025](/assets/beach_widths_master.csv)
 
 
 
