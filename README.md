@@ -1,4 +1,4 @@
-**Welcome to my final project**
+
 
 Sandy beaches are an essential and beautiful part of our coastline, but they are a woefully misunderstood ecological niche. The common conception is that beaches are lifeless expanses of sand fit for beach days and relaxation only. But there is a wide variety of cross boundary interactions happening over the beach, connecting the ocean and the land together in a dense web of nutrient exchange and interaction. 
 <figure>
